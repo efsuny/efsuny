@@ -2,6 +2,7 @@
 - 🌱 I’m currently learning python.
 - 📌 I have taken C#, JAVA, PHP, CSS, HMTL, SQL trainings. 
 - 👀 I'm interested in network and system expertise.
+- 👍 i am currently interested in software test engineering.
 - 📧 efsnytkn@outlook.com you can contact me.
 
 
